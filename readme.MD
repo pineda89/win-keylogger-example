@@ -3,6 +3,7 @@ Just a keylogger example.
 
 Output:
 
+```
 GOROOT=C:\Go #gosetup
 GOPATH=D:\workspace\go;C:\Users\win\go #gosetup
 C:\Go\bin\go.exe build -i -o C:\Users\win\AppData\Local\Temp\___Unnamed.exe win-keylogger-example #gosetup
@@ -36,3 +37,4 @@ C:\Go\bin\go.exe build -i -o C:\Users\win\AppData\Local\Temp\___Unnamed.exe win-
 [2020-02-08 20:43:26.2638187 +0000 UTC]	I
 [2020-02-08 20:43:26.3146838 +0000 UTC]	N
 [2020-02-08 20:43:26.4513406 +0000 UTC]	E
+```
